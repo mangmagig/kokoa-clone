@@ -1,3 +1,3 @@
 #Kokoa Clone 2026
 
-First HTML, CSS
+Html & CSS are so much fun!
