@@ -8,7 +8,7 @@
 
 /*Screens*/
 @import "screens/login.css";
-
+@import "screens/friends.css";
 body {
   font-family:
     system-ui,
@@ -22,4 +22,5 @@ body {
     "Open Sans",
     "Helvetica Neue",
     sans-serif;
+  color: #2e363e;
 }
