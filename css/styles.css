@@ -6,6 +6,7 @@
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
 @import "components/user-component.css";
+@import "components/badge.css";
 /*Screens*/
 @import "screens/login.css";
 @import "screens/friends.css";
@@ -23,4 +24,7 @@ body {
     "Helvetica Neue",
     sans-serif;
   color: #2e363e;
+}
+.main-screen {
+  padding: 0px var(--horizontal-space);
 }
